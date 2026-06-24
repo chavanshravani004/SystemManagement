@@ -1,3 +1,6 @@
 public class Test {
-int no=24;
+    public static void main(String[] args){
+        int no=24;
+        System.out.println("Test file");
+    }
 }
